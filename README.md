@@ -1,5 +1,5 @@
 # Kickstarting with Excel
-
+In the data we had to import the data into table for analysis. The projects consisted of applying filters, formulas, generating and interpreting the pivot table and pivot charts.
 ## Overview of Project 
 
 ### Purpose

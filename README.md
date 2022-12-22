@@ -26,14 +26,18 @@ One of the challenges, I confronted was with the COUNTIFS statement. I thought i
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
+
 By viewing the line graph the two conclusions I can draw are the May and June months to be successful in launching theater project and December to be the least successful month. Another conclusion to draw is that there were 0% theater projects cancelled. 
 
 - What can you conclude about the Outcomes based on Goals?
+
 By looking at the graph, you can conclude that play campaign with higher goal to be failing and not successful. Therefore, we see that the project goal less than $5000 were to be more successful.
 
 - What are some limitations of this dataset?
+
 Some of the limitations of this dataset were canceled theater projects as there were not examples given in subcategory. Another was to identify the gender to help determine the targeted audience. 
 
 - What are some other possible tables and/or graphs that we could create?
+
 A graph to show the comparison of the countries in determining which campaigns are more successful in certain countries.
 
